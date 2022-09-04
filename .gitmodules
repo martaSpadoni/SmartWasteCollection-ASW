@@ -1,0 +1,12 @@
+[submodule "booking-microservice"]
+	path = booking-microservice
+	url = https://github.com/SmartWasteCollection/booking-microservice.git
+[submodule "authentication-microservice"]
+	path = authentication-microservice
+	url = https://github.com/SmartWasteCollection/authentication-microservice.git
+[submodule "dashboard"]
+	path = dashboard
+	url = https://github.com/SmartWasteCollection/dashboard.git
+[submodule "smart-waste-collection-system"]
+	path = smart-waste-collection-system
+	url = https://github.com/SmartWasteCollection/smart-waste-collection-system.git
